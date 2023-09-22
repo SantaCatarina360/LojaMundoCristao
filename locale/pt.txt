@@ -1,0 +1,118 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_862A2C13_B48C_A978_41E2_1BE40D18083F.source = https://maps.app.goo.gl/YpK136sNx299gyk26
+LinkBehaviour_FDC43DF5_BC95_EAB9_41E3_AD962676E12D.source = https://maps.app.goo.gl/YpK136sNx299gyk26
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://maps.app.goo.gl/yTPLFhEz29en5XJv5
+LinkBehaviour_923BDCC8_B4B4_6AE8_41E5_76FC5A4744F9.source = https://www.instagram.com/rankingdigital360/
+
+## Media
+
+### Audio
+audiores_91EE7905_B4B5_EB58_41D6_84552199CCE1.mp3Url = media/audio_917BB2C9_B4B4_7EE8_41E5_C2B74DBAC49D_pt.mp3
+audiores_ACF5B25F_B48C_B9E8_41CE_87E219479FF4.mp3Url = media/audio_ACBD0F71_B48C_A7B8_41CE_50D0D6D74682_pt.mp3
+audiores_ACF5B25F_B48C_B9E8_41CE_87E219479FF4.mp3Url = media/audio_ACBD0F71_B48C_A7B8_41CE_50D0D6D74682_pt.mp3
+audiores_ACF5B25F_B48C_B9E8_41CE_87E219479FF4.mp3Url = media/audio_ACBD0F71_B48C_A7B8_41CE_50D0D6D74682_pt.mp3
+audiores_ACF5B25F_B48C_B9E8_41CE_87E219479FF4.mp3Url = media/audio_ACBD0F71_B48C_A7B8_41CE_50D0D6D74682_pt.mp3
+audiores_ACF5B25F_B48C_B9E8_41CE_87E219479FF4.mp3Url = media/audio_ACBD0F71_B48C_A7B8_41CE_50D0D6D74682_pt.mp3
+audiores_ACF5B25F_B48C_B9E8_41CE_87E219479FF4.mp3Url = media/audio_ACBD0F71_B48C_A7B8_41CE_50D0D6D74682_pt.mp3
+audiores_A977B6D4_B494_A6F8_41C7_B9766C2CA732.mp3Url = media/audio_ACF111A7_B48C_DB58_41E5_73C8CF6CED14_pt.mp3
+
+### Title
+panorama_A018ADC0_B494_AAD8_41E6_29DF39D5DA15.label = AMBIENTE 01
+panorama_A01878A0_B494_6957_41A3_117BBED7CE7B.label = AMBIENTE 02
+panorama_A01FB43E_B494_79A8_41E4_7D315A2D69D0.label = AMBIENTE 03
+panorama_A01FAEFD_B494_66A8_41D4_FE019A6CB99E.label = AMBIENTE 04
+panorama_A0185966_B48B_ABD8_41C3_D1A40C773C6F.label = AMBIENTE 05
+panorama_A01878FB_B494_AAA8_41E0_F18CC3A027C5.label = ENTRADA LOJA
+panorama_A01855B7_B494_FAB9_41D6_FC4FF451E04F.label = FRENTE LOJA
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_10.label = IMG-20230920-WA0056
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_11.label = IMG-20230920-WA0057
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_12.label = IMG-20230920-WA0058
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_13.label = IMG-20230920-WA0059
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_14.label = IMG-20230920-WA0060
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_15.label = IMG-20230920-WA0061
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_16.label = IMG-20230920-WA0062
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_17.label = IMG-20230920-WA0063
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_18.label = IMG-20230920-WA0064
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_19.label = IMG-20230920-WA0065
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_20.label = IMG-20230920-WA0066
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_21.label = IMG-20230920-WA0067
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_22.label = IMG-20230920-WA0068
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_23.label = IMG-20230920-WA0069
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_24.label = IMG-20230920-WA0070
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_25.label = IMG-20230920-WA0071
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_26.label = IMG-20230920-WA0072
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_27.label = IMG-20230920-WA0073
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_28.label = IMG-20230920-WA0074
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_29.label = IMG-20230920-WA0075
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_30.label = IMG-20230920-WA0076
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_31.label = IMG-20230920-WA0077
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_32.label = IMG-20230920-WA0078
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_33.label = IMG-20230920-WA0079
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_34.label = IMG-20230920-WA0080
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_35.label = IMG-20230920-WA0081
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_36.label = IMG-20230920-WA0082
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_37.label = IMG-20230920-WA0083
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_38.label = IMG-20230920-WA0084
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_39.label = IMG-20230920-WA0085
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_40.label = IMG-20230920-WA0086
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_41.label = IMG-20230920-WA0087
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_42.label = IMG-20230920-WA0088
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_43.label = IMG-20230920-WA0089
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_44.label = IMG-20230920-WA0090
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_45.label = IMG-20230920-WA0091
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_46.label = IMG-20230920-WA0092
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_47.label = IMG-20230920-WA0093
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_48.label = IMG-20230920-WA0094
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_49.label = IMG-20230920-WA0095
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_50.label = IMG-20230920-WA0097
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_51.label = IMG-20230920-WA0098
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_52.label = IMG-20230920-WA0099
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_53.label = IMG-20230920-WA0100
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_54.label = IMG-20230920-WA0101
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_55.label = IMG-20230920-WA0102
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_56.label = IMG-20230920-WA0103
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_57.label = IMG-20230920-WA0104
+album_908E2811_B49C_A978_41D4_ACAE3A0566A3_58.label = IMG-20230920-WA0105
+
+## Skin
+
+### Button
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = AMBIENTE 01
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = AMBIENTE 01
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = AMBIENTE 02
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = AMBIENTE 02
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = AMBIENTE 03
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = AMBIENTE 03
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = AMBIENTE 04
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = AMBIENTE 04
+Button_ADEF1BE9_B574_AEA8_41DB_62E5C43CDE7A.label = AMBIENTE 05
+Button_FDC62745_BC97_A7D8_41C4_5C3001594A51_mobile.label = AMBIENTE 05
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = AMENITIES >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = ENTRADA LOJA
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = FRENTE GALERIA
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = FRENTE GALERIA
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = FRENTE LOJA
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = Inserdt Text
+
+### Image
+Image_910301B3_B48C_7AB8_41D5_FF84F723A472.url = skin/Image_910301B3_B48C_7AB8_41D5_FF84F723A472_pt.jpg
+Image_913CCF94_B48C_6778_41CF_15B6DE7B0C82.url = skin/Image_913CCF94_B48C_6778_41CF_15B6DE7B0C82_pt.jpg
+Image_92990933_B4B7_ABB8_41C7_544D168F5FBC.url = skin/Image_92990933_B4B7_ABB8_41C7_544D168F5FBC_pt.png
+Image_AC986F6E_B57F_E7A8_41D3_36AE21D55621.url = skin/Image_AC986F6E_B57F_E7A8_41D3_36AE21D55621_pt.png
+Image_FA968AF4_BC8B_AEB8_41CB_F6C70CC428E9.url = skin/Image_FA968AF4_BC8B_AEB8_41CB_F6C70CC428E9_pt.png
+Image_FD05FCA1_BC9C_A958_41E1_7768BB0EE409.url = skin/Image_FD05FCA1_BC9C_A958_41E1_7768BB0EE409_pt.jpg
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.059999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.58vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>Loja Mundo Cristão</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Oswald';"><B>Um lugar para familia cristã.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">"Aqui você encontra Artigos religiosos e uma variedade de produtos em um só lugar ,temos: Bíblias adulto e Infantil, livros, Devocionais, Camisetas, Bonés, Quadros decorativos, Brinquedos e muitos mais para você sua Igreja e Família.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_4C0C3CF8_5EE8_88BE_41D5_8EEACF3D5601.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13.06572222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13.07vmin;font-family:'Oswald';"><B><I>Loja Mundo Cristão</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.9337777777777765vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.93vmin;font-family:'Oswald';"><B>Um lugar para familia cristã.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.37vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.97vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.737138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.74vmin;">"Aqui você encontra Artigos religiosos e uma variedade de produtos em um só lugar ,temos: Bíblias adulto e Infantil, livros, Devocionais, Camisetas, Bonés, Quadros decorativos, Brinquedos e muitos mais para você sua Igreja e Família.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Loja Mundo Cristão
